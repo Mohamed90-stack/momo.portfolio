@@ -7,7 +7,7 @@ const About = () => {
             <div className='col-span-2'>
                 <p className='uppercase text-xl tracking-widest text-[#5651e5]'>About</p>
                 <h2 className='py-4'>Who I Am</h2>
-                <p className='py-2 text-gray-600'>// I am not your normal developer</p>
+                <p className='py-2 text-gray-600'>/ / I am not your normal developer</p>
                 <p className='py-2 text-gray-600'>
                     I have spent the last 6 years in the construction field working as a professional civil engineer & consultant. I have always had a knack for technology and working with computers. In 2020 I started working with HTML & CSS to make some minor edits on a small business website that I was operating. What I thought was just a few small edits turned into a love for programming.
                 </p>
