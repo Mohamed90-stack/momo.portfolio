@@ -100,7 +100,7 @@ const Resume = () => {
               With all advanced Social Media features, such as Google Authentication, 
             </li>
             <li>
-              Create, edit, delete and save posts, like and comment on other people's posts,
+              Create, edit, delete and save posts, like and comment on other people&apos;s posts,
             </li>
             <li>
               Search and filter images and much more,
