@@ -18,7 +18,7 @@ const Main = () => {
                     A Full-Stack Developer
                 </h1>
                 <p className='py-4 text-gray-600 max-w-[70%] m-auto'>
-                    I&apos;m a front-end web developer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I&apos;m focused on building responsive fullstack web applications while learning web3-blockchain technologies.
+                    I&apos;m a full-stack web developer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I&apos;m focused on building responsive fullstack web applications while learning web3-blockchain technologies.
                 </p>
                 <div className='flex items-center justify-between max-w-[330px] m-auto py-4'>
                     <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
