@@ -12,6 +12,7 @@ export default function Home() {
   <div>
     <Head>
       <title>Mohamed Omar | Front-End Developer</title>
+      <link rel="icon" href="/navLogo.png" />
     </Head>
     <Main/> 
     <About/>
