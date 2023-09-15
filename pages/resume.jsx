@@ -255,13 +255,13 @@ const Resume = () => {
             Education
           </h5>
           <p className='italic'>
-            <span className='font-bold'>FRONT-STACK DEVELOPER</span>
+            <span className='font-bold'>FULL-STACK DEVELOPER</span>
           </p>
           <p className='py-1 italic'>Le Wagon / 2023</p>
           <p className='italic'>
-            <span className='font-bold'>FULL-END DEVELOPER</span>
+            <span className='font-bold'>FRONT-END DEVELOPER</span>
           </p>
-          <p className='py-1 italic'>Openclassrooms / 2020</p>
+          <p className='py-1 italic'>Openclassrooms / 2022</p>
         </div>
       </div>
     </>
